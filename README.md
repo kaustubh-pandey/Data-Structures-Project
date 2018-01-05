@@ -10,3 +10,11 @@ was on searching records and BST has average time complexity O(log n) and worst 
 and insert operations. For searching records we have also used Trie data structure to search by name.
 
 Please read Readme.txt for detailed information about functions.
+
+To run this project:
+
+1. Compile using gcc p30-main().c
+
+2. ./a.out would run the program.
+
+Note- This program requires gcc. The project appears best on Linux systems. For running in Windows try installing Cygwin.
